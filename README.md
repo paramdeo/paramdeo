@@ -28,3 +28,20 @@ Some stuff I've done recently:
 ---
 
 ![GitHub metrics](https://metrics.lecoq.io/oedmarap)  
+
+---
+
+<table>
+<thead>
+  <tr>
+    <th><h4>How It Started</h4></th>
+    <th><h4>How It's Going</h4></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><img src="https://images.paramdeo.com/pikachu-coffee.png" height="160px" width="160px"></td>
+    <td><img src="https://images.paramdeo.com/vader-sleepy.png" height="160px" width="160px"></td>
+  </tr>
+</tbody>
+</table>
