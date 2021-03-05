@@ -15,19 +15,15 @@ I'm a web developer, sysadmin, and generalist who's focused on the intersection 
 
 Some stuff I've done recently:
 
-<img src="https://use.ipaddy.net/favicon.png" height="16px" width="16px"><span>&ensp;<a href="https://ipaddy.net" target="_blank">IP Addy</a> (IP address query for my use case) ⠶ <em><a href="https://use.ipaddy.net" target="_blank">Readme</a></em></span>
+<a href="https://ipaddy.net" target="_blank">IP Addy</a> (IP address query for my use case) ⠶ <em><a href="https://use.ipaddy.net" target="_blank">Readme</a></em>
 
-<span><img src="https://quickpassword.net/favicon.ico" height="16px" width="16px"><span>&ensp;<a href="https://quickpassword.net" target="_blank">QuickPassword</a> (a password generator for my use case)</span>
+<a href="https://quickpassword.net" target="_blank">QuickPassword</a> (a password generator for my use case)
 
-<img src="https://quollated.com/favicon.ico" height="16px" width="16px"><span>&ensp;<a href="https://quollated.com" target="_blank">Quollated</a> (my fav curated quotes)</span>
+<a href="https://quollated.com" target="_blank">Quollated</a> (my fav curated quotes)
 
-<img src="https://suffu.se/favicon.ico" height="16px" width="16px"><span>&ensp;<a href="https://suffu.se" target="_blank">Suffuse</a> (my amateur photography portfolio)</span>
+<a href="https://suffu.se" target="_blank">Suffuse</a> (my amateur photography portfolio)
 
-<img src="https://kodaijiin.com/favicon.ico" height="16px" width="16px"><span>&ensp;<a href="https://kodaijiin.com" target="_blank">Kodaijiin</a> (my logo design portfolio)</span>
-
----
-
-![GitHub metrics](https://metrics.lecoq.io/oedmarap)  
+<a href="https://kodaijiin.com" target="_blank">Kodaijiin</a> (my logo design portfolio)
 
 ---
 
