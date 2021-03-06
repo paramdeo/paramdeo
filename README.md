@@ -12,7 +12,7 @@ I'm a web developer, sysadmin, and generalist who's focused on the intersection 
 
 ---
 
-Some stuff I've done recently:
+### Recent things
 
 <a href="https://ipaddy.net" target="_blank">IP Addy</a> (whats my IP tool) ⠶ <em><a href="https://use.ipaddy.net" target="_blank">Readme</a></em>
 
