@@ -35,8 +35,8 @@ Some stuff I've done recently:
 </thead>
 <tbody>
   <tr>
-    <td><img src="https://images.paramdeo.com/bitmoji-coffee-start.png" height="160px" width="160px"></td>
-    <td><img src="https://images.paramdeo.com/bitmoji-coffee-end.png" height="160px" width="160px"></td>
+    <td><img src="https://images.paramdeo.com/bitmoji-coffee-start.png" height="200px" width="200px"></td>
+    <td><img src="https://images.paramdeo.com/bitmoji-coffee-end.png" height="200px" width="200px"></td>
   </tr>
 </tbody>
 </table>
