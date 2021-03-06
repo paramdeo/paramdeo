@@ -36,8 +36,8 @@ Some stuff I've done recently:
 </thead>
 <tbody>
   <tr>
-    <td><img src="https://images.paramdeo.com/pikachu-coffee.png" height="160px" width="160px"></td>
-    <td><img src="https://images.paramdeo.com/vader-sleepy.png" height="160px" width="160px"></td>
+    <td><img src="https://images.paramdeo.com/bitmoji-coffee-start.png" height="160px" width="160px"></td>
+    <td><img src="https://images.paramdeo.com/bitmoji-coffee-end.png" height="160px" width="160px"></td>
   </tr>
 </tbody>
 </table>
