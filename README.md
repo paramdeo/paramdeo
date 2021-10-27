@@ -14,7 +14,8 @@ I'm a web developer, sysadmin, and generalist who's focused on the intersection 
 
 ### Recent things
 
-- <a href="https://about.statuscodes.org" target="_blank">StatusCodes</a> (HTTP response code generator)
+- <a href="https://haychen.com" target="_blank">Haychen</a> (Hacker News without the clutter)
+- <a href="https://statuscodes.org" target="_blank">StatusCodes</a> (HTTP response code generator)
 - <a href="https://netfind.in" target="_blank">NetFind</a> (URL-based search helper)
 - <a href="https://ipaddy.net" target="_blank">IP Addy</a> (whats my IP tool) ⠶ <em><a href="https://use.ipaddy.net" target="_blank">Readme</a></em>
 - <a href="https://quickpassword.net" target="_blank">QuickPassword</a> (password generator)
