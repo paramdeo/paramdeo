@@ -7,18 +7,19 @@ I'm a Web Developer @ <a href="https://factoralpha.com" target="_blank" rel="noo
 ### A Few <s>Wastes of Time</s> Side Projects
 
 - <a href="https://haychen.com" target="_blank" rel="noopener">Haychen</a> (HN without the clutter)
-- <a href="https://barebin.com" target="_blank" rel="noopener">BareBin</a> (Free, simple, stateless pastebin)
+- <a href="https://barebin.com" target="_blank" rel="noopener">BareBin</a> (Simple, stateless pastebin)
 - <a href="https://statuscodes.org" target="_blank" rel="noopener">StatusCodes</a> (HTTP response code generator)
 - <a href="https://netfind.in" target="_blank" rel="noopener">NetFind</a> (URL-based search helper)
-- <a href="https://use.ipaddy.net" target="_blank" rel="noopener">IP Addy</a> (whats my IP service)
-- <a href="https://quickpassword.net" target="_blank" rel="noopener">QuickPassword</a> (password generator)
-- <a href="https://quollated.com" target="_blank" rel="noopener">Quollated</a> (curated quotes)
+- <a href="https://use.ipaddy.net" target="_blank" rel="noopener">IP Addy</a> (What's my IP service)
+- <a href="https://quickpassword.net" target="_blank" rel="noopener">QuickPassword</a> (Opinionated password generator)
 
 ---
 
 ### Miscellaneous
 
-- <a href="https://innerlogo.com" target="_blank" rel="noopener">Inner Logo</a> (logo design portfolio)
+- <a href="https://innerlogo.com" target="_blank" rel="noopener">Inner Logo</a> (Logo design portfolio)
+- <a href="https://tidalverses.com" target="_blank" rel="noopener">Tidal Verses</a> (Ongoing poetry project)
+- <a href="https://quollated.com" target="_blank" rel="noopener">Quollated</a> (Favorite curated quotes)
 
 ---
 
