@@ -4,8 +4,9 @@ I'm a Web Developer @ <a href="https://factoralpha.com" target="_blank" rel="noo
 
 ---
 
-### A Few <s>Wastes of Time</s> Side Projects
+### A Few Side Projects
 
+- <a href="https://ajuda.page" target="_blank" rel="noopener">Ajuda</a> (helpful JS utility library)
 - <a href="https://haychen.com" target="_blank" rel="noopener">Haychen</a> (HN without the clutter)
 - <a href="https://barebin.com" target="_blank" rel="noopener">BareBin</a> (Simple, stateless pastebin)
 - <a href="https://statuscodes.org" target="_blank" rel="noopener">StatusCodes</a> (HTTP response code generator)
