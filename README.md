@@ -7,7 +7,7 @@ I'm a software engineer, writer, psychonaut, and visual artist from Guyana now l
 ### A Few Side Projects
 
 - <a href="https://lowcase.me" target="_blank" rel="noopener">Lowcase</a> (a text lowercaser... yep, I actually needed that)
-- <a href="https://ajuda.page" target="_blank" rel="noopener">Ajuda</a> (a helpful JavaScript utility library)
+- <a href="https://ajuda.info" target="_blank" rel="noopener">Ajuda</a> (a helpful JavaScript utility library)
 - <a href="https://haychen.com" target="_blank" rel="noopener">Haychen</a> (a Hacker News reader without the clutter)
 - <a href="https://barebin.com" target="_blank" rel="noopener">BareBin</a> (a very barebones, stateless pastebin)
 - <a href="https://statuscodes.org" target="_blank" rel="noopener">StatusCodes</a> (an HTTP response code generator)
